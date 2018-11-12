@@ -1,0 +1,706 @@
+{
+  "06.08.2018": [
+    {
+      "start": {
+        "date": "2018-08-06 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-06 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-06 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-06 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-06 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-06 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-06 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-06 17:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    }
+  ],
+  "07.08.2018": [
+    {
+      "start": {
+        "date": "2018-08-07 09:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-07 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-07 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-07 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-07 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-07 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-07 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-07 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-07 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-07 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-07 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-07 17:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    }
+  ],
+  "08.08.2018": [
+    {
+      "start": {
+        "date": "2018-08-08 09:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-08 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-08 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-08 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-08 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-08 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-08 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-08 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-08 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-08 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-08 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-08 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-08 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-08 17:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    }
+  ],
+  "09.08.2018": [
+    {
+      "start": {
+        "date": "2018-08-09 09:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-09 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-09 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-09 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-09 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-09 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-09 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-09 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-09 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-09 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-09 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-09 17:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    }
+  ],
+  "10.08.2018": [
+    {
+      "start": {
+        "date": "2018-08-10 09:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-10 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-10 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-10 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-10 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-10 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-10 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-10 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-10 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-10 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-10 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-10 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-10 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-10 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-10 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-10 17:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    }
+  ],
+  "11.08.2018": [
+    {
+      "start": {
+        "date": "2018-08-11 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-11 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-11 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-11 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-11 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-11 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-11 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-11 17:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    }
+  ],
+  "12.08.2018": [
+    {
+      "start": {
+        "date": "2018-08-12 09:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-12 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-12 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-12 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-12 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-12 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-12 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-12 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-12 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-12 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-12 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-12 17:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    }
+  ],
+  "15.08.2018": [
+    {
+      "start": {
+        "date": "2018-08-15 09:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-15 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-15 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-15 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-15 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-15 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-15 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-15 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-15 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-15 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-15 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-15 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    }
+  ],
+  "17.08.2018": [
+    {
+      "start": {
+        "date": "2018-08-17 09:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-17 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-17 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-17 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-17 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-17 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    }
+  ],
+  "20.08.2018": [
+    {
+      "start": {
+        "date": "2018-08-20 09:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-20 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-20 10:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-20 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-20 11:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-20 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-20 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-20 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-20 13:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-20 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-20 14:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-20 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    },
+    {
+      "start": {
+        "date": "2018-08-20 15:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      },
+      "end": {
+        "date": "2018-08-20 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Pacific\/Auckland"
+      }
+    }
+  ]
+}

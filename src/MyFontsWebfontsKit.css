@@ -1,0 +1,46 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3593178, 2018-06-06T22:27:47-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: PatchouliDisplay-BoldItalic by Blue Vinyl Fonts
+ * URL: https://www.myfonts.com/fonts/bluevinyl/patchouli-display/bold-italic/
+ * 
+ * Webfont: PatchouliDisplay-Italic by Blue Vinyl Fonts
+ * URL: https://www.myfonts.com/fonts/bluevinyl/patchouli-display/italic/
+ * 
+ * Webfont: PatchouliDisplay-Bold by Blue Vinyl Fonts
+ * URL: https://www.myfonts.com/fonts/bluevinyl/patchouli-display/bold/
+ * 
+ * Webfont: PatchouliDisplay by Blue Vinyl Fonts
+ * URL: https://www.myfonts.com/fonts/bluevinyl/patchouli-display/regular/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3593178
+ * Licensed pageviews: 20,000
+ * Webfonts copyright: Copyright (c) 2009 by BV Fonts. All rights reserved.
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/36d3da");
+
+  
+@font-face {font-family: 'PatchouliDisplay-BoldItalic';src: url('assets/fonts/webfonts/36D3DA_0_0.eot');src: url('assets/fonts/webfonts/36D3DA_0_0.eot?#iefix') format('embedded-opentype'),url('assets/fonts/webfonts/36D3DA_0_0.woff2') format('woff2'),url('assets/fonts/webfonts/36D3DA_0_0.woff') format('woff'),url('assets/fonts/webfonts/36D3DA_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'PatchouliDisplay-Italic';src: url('assets/fonts/webfonts/36D3DA_1_0.eot');src: url('assets/fonts/webfonts/36D3DA_1_0.eot?#iefix') format('embedded-opentype'),url('assets/fonts/webfonts/36D3DA_1_0.woff2') format('woff2'),url('assets/fonts/webfonts/36D3DA_1_0.woff') format('woff'),url('assets/fonts/webfonts/36D3DA_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'PatchouliDisplay-Bold';src: url('assets/fonts/webfonts/36D3DA_2_0.eot');src: url('assets/fonts/webfonts/36D3DA_2_0.eot?#iefix') format('embedded-opentype'),url('assets/fonts/webfonts/36D3DA_2_0.woff2') format('woff2'),url('assets/fonts/webfonts/36D3DA_2_0.woff') format('woff'),url('assets/fonts/webfonts/36D3DA_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'PatchouliDisplay';src: url('assets/fonts/webfonts/36D3DA_3_0.eot');src: url('assets/fonts/webfonts/36D3DA_3_0.eot?#iefix') format('embedded-opentype'),url('assets/fonts/webfonts/36D3DA_3_0.woff2') format('woff2'),url('assets/fonts/webfonts/36D3DA_3_0.woff') format('woff'),url('assets/fonts/webfonts/36D3DA_3_0.ttf') format('truetype');}
+ 

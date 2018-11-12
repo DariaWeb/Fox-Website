@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: local('Roboto-Regular'), url('assets/fonts/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: local('Roboto-Light'), url('assets/fonts/Roboto-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto-Thin';
+    src: local('Roboto-Thin'), url('assets/fonts/Roboto-Thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'BrandonText';
+    src: local('BrandonText'), url('assets/fonts/BrandonText-Light.woff') format('woff');
+}

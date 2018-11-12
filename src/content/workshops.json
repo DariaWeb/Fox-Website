@@ -1,0 +1,91 @@
+[
+  {
+    "dateTime": [
+      {
+        "year": "2018",
+        "month": "8",
+        "day": "28",
+        "from": "1:00 pm",
+        "to": "5:00 pm"
+      }
+    ],
+    "timeNotes": "",
+    "type": "singleDay",
+    "eventTitle": "Business Goal Setting",
+    "location": "Auckland, New Zealand",
+    "address": "Spark Lab, Seafarers Building 52 Tyler Street",
+    "schedules": [
+      {
+        "name": "Training",
+        "from": "1:00pm",
+        "to": "4:00pm"
+      },
+      {
+        "name": "Networking",
+        "from": "4:00pm",
+        "to": "5:00pm"
+      }
+    ],
+    "registrationLink": "https://www.eventbrite.co.nz/e/business-goal-setting-wolf-fox-tickets-46181121979"
+  },
+  {
+    "dateTime": [
+      {
+        "year": "2018",
+        "month": "9",
+        "day": "28",
+        "from": "09:00 am",
+        "to": "5:00 pm"
+      }
+    ],
+    "timeNotes": "",
+    "type": "singleDay",
+    "eventTitle": "A – Z of Business",
+    "location": "Auckland, New Zealand",
+    "address": "Seafarers Building, Tyler Street Level 5",
+    "schedules": [
+      {
+        "name": "Speakers",
+        "from": "9:00am",
+        "to": "4:00pm"
+      },
+      {
+        "name": "Networking drinks",
+        "from": "4:00pm",
+        "to": "5:00pm"
+      }
+    ],
+    "registrationLink": "https://business-a-z.eventbrite.co.nz"
+  },
+  {
+    "dateTime": [
+      {
+        "year": "2018",
+        "month": "10",
+        "day": "30",
+        "from": "10:00 am",
+        "to": "4:00 pm"
+      },
+      {
+        "year": "2018",
+        "month": "10",
+        "day": "31",
+        "from": "10:00 am",
+        "to": "4:00 pm"
+      }
+    ],
+    "timeNotes": "Both Days",
+    "type": "twoDays",
+    "eventTitle": "Business Planning",
+    "location": "Auckland, New Zealand",
+    "address": "Spark Lab, Seafarers Building 52 Tyler Street",
+    "schedules": [
+      {
+        "name": "Workshop times",
+        "from": "10.00am",
+        "to": "4.00pm"
+      }
+    ],
+    "registrationLink": "https://www.eventbrite.co.nz/e/business-planning-workshop-wolf-fox-tickets-46743584319"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "extends": ["airbnb", "standard", "standard-react", "standard-jsx"],
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "jest": true
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true
+    }
+  },
+  "rules": {
+    "max-len": ["error", 160],
+    "function-paren-newline": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "global-require": "off",
+    "jsx-a11y/label-has-for": ["error", { "required": { "some": ["id", "nesting"] }}],
+    "no-restricted-globals": "off",
+    "prefer-destructuring": "warn",
+    "prefer-spread": "warn",
+    "react/require-default-props": "off",
+    "react/no-array-index-key": "off",
+    "react/sort-comp": "off"
+  }
+}
